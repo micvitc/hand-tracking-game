@@ -18,3 +18,6 @@ Hand Tracking game built in Unity using mediapipe.
 [3d Hand Tracking in Virtual Environment | Computer Vision
 ](https://youtu.be/RQ-2JWzNc6k?feature=shared)
 By Murtaza's Workshop
+
+
+## Axed Due to Performance Issues
